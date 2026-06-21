@@ -25,7 +25,7 @@
 
 ---
 
-### ⚡ Stack
+### Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
@@ -40,18 +40,16 @@
 
 ---
 
-### 📌 Pinned
+### Pinned
 
-| Proyecto | Descripción | Stack |
+| Proyecto | Descripcion | Stack |
 |----------|-------------|-------|
-| [**prism-clinic**](https://github.com/CostSquare99109/prism-clinic) | AI-powered clinic management | FastAPI · React · PostgreSQL |
-| [**MotoYa**](https://github.com/CostSquare99109/MotoYa) | Mototaxi fleet platform (3 portals) | TypeScript · FastAPI · PostGIS |
-| [**edl-carepa**](https://github.com/CostSquare99109/edl-carepa) | Employee performance evaluation | TypeScript · React |
-| [**Moto**](https://github.com/CostSquare99109/Moto) | Mototaxi fleet MVP | TypeScript · React |
+| [**prism-clinic**](https://github.com/CostSquare99109/prism-clinic) | AI-powered clinic management | FastAPI - React - PostgreSQL |
+| [**MotoYa**](https://github.com/CostSquare99109/MotoYa) | Mototaxi fleet platform (3 portals) | TypeScript - FastAPI - PostGIS |
+| [**edl-carepa**](https://github.com/CostSquare99109/edl-carepa) | Employee performance evaluation | TypeScript - React |
+| [**Moto**](https://github.com/CostSquare99109/Moto) | Mototaxi fleet MVP | TypeScript - React |
 
 ---
-
-### 📈
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=CostSquare99109&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
@@ -66,6 +64,6 @@
 
 ```
                             ╔══════════════════════════╗
-                            ║  code · build · ship    ║
+                            ║  code . build . ship    ║
                             ╚══════════════════════════╝
 ```
