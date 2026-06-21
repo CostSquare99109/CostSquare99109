@@ -1,26 +1,5 @@
-```
-
-
-                                     ██████╗ ███████╗██╗██╗
-                                    ██╔════╝ ██╔════╝██║██║
-                                    ██║      █████╗  ██║██║
-                                    ██║      ██╔══╝  ██║██║
-                                    ╚██████╗ ██║     ██║███████╗
-                                     ╚═════╝ ╚═╝     ╚═╝╚══════╝
-
-
-          ███████╗ ██████╗ ██╗   ██╗ █████╗ ██████╗ ███████╗
-          ██╔════╝██╔═══██╗██║   ██║██╔══██╗██╔══██╗██╔════╝
-          █████╗  ██║   ██║██║   ██║███████║██║  ██║█████╗
-          ██╔══╝  ██║▄▄ ██║██║   ██║██╔══██║██║  ██║██╔══╝
-          ██║     ╚██████╔╝╚██████╔╝██║  ██║██████╔╝███████╗
-          ╚═╝      ╚══▀▀═╝  ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚══════╝
-
-
-```
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;TypeScript+%7C+Python+%7C+FastAPI+%7C+React;Building+for+the+real+world" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=CostSquare99109;Full-Stack+Developer;TypeScript+%7C+Python+%7C+FastAPI+%7C+React" />
 </p>
 
 ---
@@ -40,10 +19,10 @@
 
 ---
 
-### Pinned
+### Projects
 
-| Proyecto | Descripcion | Stack |
-|----------|-------------|-------|
+| Project | Description | Stack |
+|---------|-------------|-------|
 | [**prism-clinic**](https://github.com/CostSquare99109/prism-clinic) | AI-powered clinic management | FastAPI - React - PostgreSQL |
 | [**MotoYa**](https://github.com/CostSquare99109/MotoYa) | Mototaxi fleet platform (3 portals) | TypeScript - FastAPI - PostGIS |
 | [**edl-carepa**](https://github.com/CostSquare99109/edl-carepa) | Employee performance evaluation | TypeScript - React |
@@ -59,11 +38,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CostSquare99109&theme=react-dark&hide_border=true&bg_color=0d1117" />
 </p>
-
----
-
-```
-                            ╔══════════════════════════╗
-                            ║  code . build . ship    ║
-                            ╚══════════════════════════╝
-```
