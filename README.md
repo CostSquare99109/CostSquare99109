@@ -35,6 +35,3 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CostSquare99109&layout=compact&theme=radical&hide_border=true&langs_count=6" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CostSquare99109&theme=react-dark&hide_border=true&bg_color=0d1117" />
-</p>
